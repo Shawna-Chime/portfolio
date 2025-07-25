@@ -177,7 +177,7 @@
 .proj-card-img img {
   transition: transform 0.3s ease;
   width: 100%;
-  min-height: 300px;
+  height: 300px;
   object-fit: cover;
   border-radius: 20px;
 }
